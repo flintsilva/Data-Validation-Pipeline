@@ -1,4 +1,4 @@
-### Pipeline de Sanitização e Validação Defensiva de Dados
+#Pipeline de Sanitização e Validação Defensiva de Dados
 
 Este projeto simula uma camada crítica de tratamento e sanitização de dados cadastrais (especificamente números de CPF) no ecossistema de Back-end. Ele foi desenvolvido com o objetivo de demonstrar conceitos fundamentais de Engenharia de Dados, manipulação robusta de strings e Segurança Defensiva de Aplicações (AppSec) utilizando Python puro.
 
