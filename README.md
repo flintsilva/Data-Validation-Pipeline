@@ -1,5 +1,7 @@
 # Data Validation and Defensive Security Pipeline
 
+🌐 *[Clique aqui para a versão em português. - Click here for the Portuguese version of this document.](./README-pt.md)*
+
 This project simulates a critical data processing and sanitization layer for customer registration inputs (specifically Brazilian CPF numbers) within a Back-end ecosystem. It was developed to demonstrate core concepts of Data Engineering, robust string manipulation, and Application Security (AppSec) using pure Python.
 
 ### 🚀 Features
